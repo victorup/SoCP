@@ -6,6 +6,8 @@ In our work, we aim to design an emotional line for each character that consider
 - python3+
 - nltk
 - pytorch
+- tqdm
+- sklearn
 
 ## About Data
 [Modeling Naive Psychology of Characters in Simple Commonsense Stories](https://uwnlp.github.io/storycommonsense/)
