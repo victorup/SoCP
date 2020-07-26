@@ -1,1 +1,3 @@
 # Controllable Multi-Character Psychology-Oriented Story Generation (CIKM 2020)
+
+In our work, we aim to design an emotional line for each character that considers multiple emotions common in psychological theories, with the goal of generating stories with richer emotional changes in the char- acters. To the best of our knowledge, this work is first to focuses on characters’ emotional lines in story generation. We present a novel model-based attention mechanism that we call SoCP (Story- telling of multi-Character Psychology). We show that the proposed model can not only generate a coherent story but also generate a story considering the changes in the psychological state of different characters. 
