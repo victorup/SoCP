@@ -11,3 +11,8 @@ In our work, we aim to design an emotional line for each character that consider
 
 ## About Data
 [Modeling Naive Psychology of Characters in Simple Commonsense Stories](https://uwnlp.github.io/storycommonsense/)
+
+## Run
+1. First Download the dataset [Modeling Naive Psychology of Characters in Simple Commonsense Stories](https://uwnlp.github.io/storycommonsense/) and run data_process.py. Then we can get pro_data.csv
+2. Run wirte_data_and_word_dict.py to get train_pmr_idx.csv and word_dict_pmr_idx.json
+3. Run train.py
