@@ -13,6 +13,6 @@ In our work, we aim to design an emotional line for each character that consider
 [Modeling Naive Psychology of Characters in Simple Commonsense Stories](https://uwnlp.github.io/storycommonsense/)
 
 ## Run
-1. First Download the dataset [Modeling Naive Psychology of Characters in Simple Commonsense Stories](https://uwnlp.github.io/storycommonsense/) and run data_process.py. Then we can get pro_data.csv
-2. Run wirte_data_and_word_dict.py to get train_pmr_idx.csv and word_dict_pmr_idx.json
-3. Run train.py
+1. First Download the dataset [Modeling Naive Psychology of Characters in Simple Commonsense Stories](https://uwnlp.github.io/storycommonsense/) and run ___data_process.py___. Then we can get ___pro_data.csv___
+2. Run ___wirte_data_and_word_dict.py___ to get train_pmr_idx.csv and ___word_dict_pmr_idx.json___
+3. Run ___train.py___
