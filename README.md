@@ -9,7 +9,7 @@ In our work, we aim to design an emotional line for each character that consider
 - tqdm
 - sklearn
 
-## Files Description
+## File Description
 ___train.py___ and ___test.py___ are the mainly files to train and test our model.
 ___train_clf.py___ and ___test_clf.py___ are the files about training and testing the emotion classifier.
 
